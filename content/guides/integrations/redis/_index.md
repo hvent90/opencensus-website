@@ -5,6 +5,7 @@ draft: false
 class: "integration-page"
 aliases: [/integrations/redis]
 logo: /img/redis-logo.png
+weight: 20
 ---
 
 Some Redis clients have been instrumented with OpenCensus to provide metrics and traces.
